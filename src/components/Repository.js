@@ -7,6 +7,7 @@ function Repository () {
             style={{paddingTop: '20px'}}
         >
             <h3
+                className="uk-heading-medium"
                 style={{paddingLeft:'30px'}}
             >
                 My Repository
