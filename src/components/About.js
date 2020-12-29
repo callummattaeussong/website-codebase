@@ -21,8 +21,7 @@ function About () {
             <hr className="uk-divider-icon"/>
             <div class="uk-card-body">
                 <p style={{margin:'2vw'}}>
-                    <b>Hi there!</b> I'm so glad you've taken an interest in my website! I had taken the time to learn
-                    react.js just to build it!
+                    <b>Hi there!</b> I'm so glad you've taken an interest in my website!
                     <br /> <br /> 
                     I'm a Malaysian International student currently studying in the United States at Arizona State University.
                     Majoring in Computer Science and concentrating on Software Development, I'm an aspiring software engineer
@@ -35,8 +34,8 @@ function About () {
                     also be able to look through my awards, accomplishments, proficiencies, and activities here too.
                     <br /><br />
                     As far as other interests, I am interested in <i>sustainability, rock-climbing</i> and <i>playing the guitar</i>.
-                    Most of these, I have taken part in from a young age (except for sustainability which has only recently 
-                    come as a revelation to me). 
+                    Most of these, Lifelong interests. If you're down to mount some crags, jam or have a conversation about the environment do 
+                    feel free to let me know!
                     <br /><br />
                     Once again, I thank you for coming to view my page and I hope you do consider approaching me for more information.
                 </p>
