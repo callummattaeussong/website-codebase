@@ -4,7 +4,7 @@ function Repository () {
     return (
         <div 
             className="uk-card uk-card-default"
-            style={{paddingTop: '20px'}}
+            style={{paddingTop: '20px', paddingBottom:'40px'}}
         >
             <h3
                 className="uk-heading-medium"
