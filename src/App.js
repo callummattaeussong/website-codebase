@@ -1,6 +1,9 @@
 import './App.css';
 import Home from './components/Home';
 import Background from './images/HomeBackground.jpg';
+import About from './components/About';
+import Repository from './components/Repository';
+import BlankSpace from './components/Blackspace';
 
 function App() {
   return (
@@ -9,6 +12,9 @@ function App() {
           height:'auto', backgroundSize:'100%'}}
     >
       <Home />
+      <About />
+      <BlankSpace />
+      <Repository />
     </div>
   );
 }
