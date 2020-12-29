@@ -4,13 +4,13 @@ function Repository () {
     return (
         <div 
             className="uk-card uk-card-default"
-            style={{paddingTop: '20px', paddingBottom:'40px', paddingRight: '30px', textAlign:'right'}}
+            style={{paddingTop: '20px', paddingBottom:'40px', paddingLeft:'30px', paddingRight: '30px', textAlign:'right'}}
         >
             <h3
                 className="uk-heading-medium"
                 style={{paddingLeft:'30px'}}
             >
-                My Repository
+                Repo
             </h3>
             <hr className="uk-divider-icon"/>
             <br />
