@@ -34,7 +34,7 @@ function About () {
                     also be able to look through my awards, accomplishments, proficiencies, and activities here too.
                     <br /><br />
                     As far as other interests, I am interested in <i>sustainability, rock-climbing</i> and <i>playing the guitar</i>.
-                    Most of these, Lifelong interests. If you're down to mount some crags, jam or have a conversation about the environment do 
+                    If you're down to mount some crags, jam or have a conversation about the environment do 
                     feel free to let me know!
                     <br /><br />
                     Once again, I thank you for coming to view my page and I hope you do consider approaching me for more information.
