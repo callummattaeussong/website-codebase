@@ -4,6 +4,7 @@ import Background from './images/HomeBackground.jpg';
 import About from './components/About';
 import Repository from './components/Repository';
 import BlankSpace from './components/Blackspace';
+import Skills from './components/Skills';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <BlankSpace />
       <Repository />
       <BlankSpace />
+      <Skills />
     </div>
   );
 }

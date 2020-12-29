@@ -1,6 +1,6 @@
 import React from 'react';
 import Headshot from '../images/MyFace.png';
-import '../styles/cardstyles.css'
+
 
 function About () {
     return(
