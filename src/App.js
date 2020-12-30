@@ -20,6 +20,7 @@ function App() {
       <Skills />
       <BlankSpace />
       <Contact />
+      <BlankSpace />
     </div>
   );
 }
