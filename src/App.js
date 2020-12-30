@@ -5,6 +5,7 @@ import Repository from './components/Repository';
 import BlankSpace from './components/Blackspace';
 import Skills from './components/Skills';
 import Navbar from './components/Navbar';
+import Contact from './components/Contact';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <BlankSpace />
       <Skills />
       <BlankSpace />
+      <Contact />
     </div>
   );
 }
