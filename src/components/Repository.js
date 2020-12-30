@@ -14,9 +14,11 @@ function Repository() {
         textAlign: "right",
       }}
     >
-      <h3 className="uk-heading-medium" style={{ paddingLeft: "30px", paddingTop:'7vw'}}>
-        Repo
-      </h3>
+      <div class="uk-card-header" style={{paddingTop:'7vw'}}>
+        <h3 className="uk-heading-medium" style={{ paddingLeft: "30px", paddingTop:'7vw'}}>
+          Repo
+        </h3>
+      </div>
       <hr className="uk-divider-icon" />
       <br />
       <h3

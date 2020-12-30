@@ -14,9 +14,9 @@ function App() {
       <Home />
       <About />
       <BlankSpace />
-      <Repository id="repository" />
+      <Repository />
       <BlankSpace />
-      <Skills id="skills" />
+      <Skills />
       <BlankSpace />
     </div>
   );

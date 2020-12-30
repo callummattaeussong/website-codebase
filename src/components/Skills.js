@@ -1,5 +1,4 @@
 import React from "react";
-import Programming from "../images/Programming.gif";
 
 function Skills() {
   return (
@@ -8,17 +7,17 @@ function Skills() {
       className="uk-card uk-card-secondary"
       style={{ paddingTop: "20px", paddingBottom: "40px" }}
     >
-      <h3
-        className="uk-heading-medium"
-        style={{ paddingRight: "30px", textAlign: "right", paddingTop:'7vw'}}
-      >
-        Skills
-      </h3>
+      <div class="uk-card-header" style={{ paddingTop: "7vw" }}>
+        <h3
+          className="uk-heading-medium"
+          style={{ paddingLeft: "30px", paddingTop: "7vw" }}
+        >
+          Skills
+        </h3>
+      </div>
       <hr className="uk-divider-icon" />
       <br />
       <div class="uk-container uk-container-large">
-        <h3>My Skills</h3>
-
         <div
           className="uk-child-width-1-4@m uk-grid-small uk-grid-match uk-grid uk-grid-stack"
           uk-grid=""
