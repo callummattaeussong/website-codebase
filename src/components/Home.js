@@ -13,7 +13,7 @@ function Home() {
       }}
     >
       <div style={{ bottom: "2vw" }}>
-        <h1 style={{ color: "white" }} className="uk-heading-small">
+        <h1 style={{ color: "white", paddingTop:'7vw' }} className="uk-heading-small">
           Callum Song
         </h1>
         <hr />
