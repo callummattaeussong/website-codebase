@@ -5,7 +5,7 @@ function Navbar() {
     <nav
       class="uk-navbar-container"
       uk-navbar
-      style={{ position: "fixed", width: "100%", zIndex: "1" }}
+      style={{ position: "fixed", width: "100%", zIndex: "1",marginBottom:'7vw' }}
     >
       <div class="uk-navbar-left">
         <ul class="uk-navbar-nav">

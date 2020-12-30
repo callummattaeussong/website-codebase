@@ -8,12 +8,11 @@ function Home() {
       style={{
         width: "100vw",
         height: "100vh",
-        paddingTop: "7vw",
         color: "white",
       }}
     >
       <div style={{ bottom: "2vw" }}>
-        <h1 style={{ color: "white", paddingTop:'7vw' }} className="uk-heading-small">
+        <h1 style={{ color: "white", marginTop:'7vw' }} className="uk-heading-small">
           Callum Song
         </h1>
         <hr />

@@ -10,6 +10,7 @@ function App() {
   return (
     <div>
       <Navbar />
+      <BlankSpace />
       <Home />
       <About />
       <BlankSpace />
