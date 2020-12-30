@@ -14,7 +14,7 @@ function Repository() {
         textAlign: "right",
       }}
     >
-      <h3 className="uk-heading-medium" style={{ paddingLeft: "30px" }}>
+      <h3 className="uk-heading-medium" style={{ paddingLeft: "30px", paddingTop:'7vw'}}>
         Repo
       </h3>
       <hr className="uk-divider-icon" />

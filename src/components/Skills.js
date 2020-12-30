@@ -10,7 +10,7 @@ function Skills() {
     >
       <h3
         className="uk-heading-medium"
-        style={{ paddingRight: "30px", textAlign: "right" }}
+        style={{ paddingRight: "30px", textAlign: "right", paddingTop:'7vw'}}
       >
         Skills
       </h3>

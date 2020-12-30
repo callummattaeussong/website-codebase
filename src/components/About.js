@@ -8,7 +8,7 @@ function About() {
       class="uk-card uk-card-small uk-card-hover uk-card-secondary myCard"
       style={{ paddingTop: "20px", paddingBottom: "40px" }}
     >
-      <div class="uk-card-header">
+      <div class="uk-card-header" style={{paddingTop:'7vw'}}>
         <div class="uk-grid uk-flex-middle" uk-grid>
           <div class="uk-width-auto">
             <img

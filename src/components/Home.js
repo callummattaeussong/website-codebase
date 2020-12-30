@@ -8,7 +8,7 @@ function Home() {
       style={{
         width: "100vw",
         height: "100vh",
-        paddingTop: "5vw",
+        paddingTop: "7vw",
         color: "white",
       }}
     >
